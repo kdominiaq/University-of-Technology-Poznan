@@ -1,0 +1,7 @@
+prepare:
+cmake CMakeLists.txt -B build/
+make
+
+for run:
+cd build/
+./exe

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/exe.dir/main.cpp.o CMakeFiles/exe.dir/Polygon.cpp.o CMakeFiles/exe.dir/Rectangle.cpp.o CMakeFiles/exe.dir/Triangle.cpp.o  -o exe 

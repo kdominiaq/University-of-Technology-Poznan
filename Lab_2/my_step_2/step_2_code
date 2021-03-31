@@ -1,0 +1,6 @@
+prepare:
+g++ -c *.cpp
+g++ *.o -o exe
+
+for run:
+./exe

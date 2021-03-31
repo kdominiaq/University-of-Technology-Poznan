@@ -1,0 +1,6 @@
+prepare:
+cmake CMakeLists.txt
+make
+
+for run:
+./exe

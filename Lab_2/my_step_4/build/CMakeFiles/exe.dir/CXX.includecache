@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Polygon.h
+
+../include/Rectangle.h
+Polygon.h
+../include/Polygon.h
+
+../include/Triangle.h
+Polygon.h
+../include/Polygon.h
+
+/home/kdominiaq/Documents/github/cmake_make_lab/my_step_4/src/Polygon.cpp
+Polygon.h
+/home/kdominiaq/Documents/github/cmake_make_lab/my_step_4/src/Polygon.h
+
+/home/kdominiaq/Documents/github/cmake_make_lab/my_step_4/src/Rectangle.cpp
+Rectangle.h
+/home/kdominiaq/Documents/github/cmake_make_lab/my_step_4/src/Rectangle.h
+
+/home/kdominiaq/Documents/github/cmake_make_lab/my_step_4/src/Triangle.cpp
+Triangle.h
+/home/kdominiaq/Documents/github/cmake_make_lab/my_step_4/src/Triangle.h
+
+/home/kdominiaq/Documents/github/cmake_make_lab/my_step_4/src/main.cpp
+iostream
+-
+Polygon.h
+/home/kdominiaq/Documents/github/cmake_make_lab/my_step_4/src/Polygon.h
+Rectangle.h
+/home/kdominiaq/Documents/github/cmake_make_lab/my_step_4/src/Rectangle.h
+Triangle.h
+/home/kdominiaq/Documents/github/cmake_make_lab/my_step_4/src/Triangle.h
+

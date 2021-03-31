@@ -1,0 +1,3 @@
+/home/kdominiaq/Documents/github/cmake_make_lab/my_step_3/CMakeFiles/rebuild_cache.dir
+/home/kdominiaq/Documents/github/cmake_make_lab/my_step_3/CMakeFiles/edit_cache.dir
+/home/kdominiaq/Documents/github/cmake_make_lab/my_step_3/CMakeFiles/exe.dir
